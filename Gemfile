@@ -49,3 +49,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #paperclip
 gem 'paperclip', '~> 4.3.7'
+
+#simple_form
+gem 'simple_form'
