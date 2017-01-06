@@ -52,3 +52,6 @@ gem 'paperclip', '~> 4.3.7'
 
 #simple_form
 gem 'simple_form'
+
+#bootstrap
+gem 'bootstrap', '~> 4.0.0.alpha5'
